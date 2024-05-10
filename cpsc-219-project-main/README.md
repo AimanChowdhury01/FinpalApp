@@ -16,7 +16,7 @@ This Java application helps users manage their finances by creating accounts, re
 - Obtain the Java source code files (`User.java`, `Transaction.java`, `FileManager.java`, etc.).
 - Compile: Compile the code using a Java compiler (e.g., `javac *`).
 - Run: Execute the main class (e.g., `java PersonalFinanceTracker`).
-- Add javaFX files to sdk libraries.
+- Add javaFX files to sdk libraries (javafx-sdk-22).
  
 ## Account Creation
 - Enter your desired nickname when prompted.
@@ -41,3 +41,8 @@ This Java application helps users manage their finances by creating accounts, re
 - Offer budget planning and goal setting features.
 - Integrate with financial institutions for automatic transaction imports.
 - Improve the UI for a more visually appealing and interactive experience.
+  ## Credits:
+-Talhah Ahmed(Lead Developer, Build Manager)
+-Ved Patel (Developer, Documentation)
+-Aiman Nawar Chowdhury (Presenter, Project Manager)
+-Soheil Shamlooheravi (Test Developer, Demo Scripter)
